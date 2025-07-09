@@ -4,7 +4,7 @@ I'm VIBHEESH KUMMAR G R
 Software Engineer | Full-Stack Developer 
 
 <div>
-    <img align = "right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
+    <img align = "right" width="370" height="290" src="https://media.licdn.com/dms/image/v2/D4D12AQH2zQ0dNvmntQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1715952999841?e=1757548800&v=beta&t=ALQiTdBuJocS_RVkmRD6mOKiKhm8odM81whAKernaH0" />
 </div>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
     <div style="flex: 1;">
