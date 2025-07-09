@@ -64,4 +64,4 @@ Software Engineer | Full-Stack Developer
 
 ### 🚀 Competitive Programming
 
-[![Leetcode Stats][![LeetCode Stats](https://leetcard.jacoblin.cool/VibheeshKumar2424?theme=dark&font=Sulphur%20Point&ext=activity)](https://leetcode.com/u/VibheeshKumar2424/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/VibheeshKumar2424?theme=dark&font=Sulphur%20Point&ext=activity)](https://leetcode.com/u/VibheeshKumar2424/)
