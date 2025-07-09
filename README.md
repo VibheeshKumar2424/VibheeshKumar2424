@@ -28,7 +28,7 @@ Software Engineer | Full-Stack Developer
 
 ### 📱 Connect with Me
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="vibheesh-kumar-g-r-1a0b2b267" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vibheesh-kumar-g-r-1a0b2b267?trk=profile-badge">VIBHEESH KUMAR G R</a></div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vibheesh-kumar-g-r-1a0b2b267)
 
 ### 🛠️ I Code In
 
