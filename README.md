@@ -1,38 +1,67 @@
-# 👋 Hello World! I'm VIBHEESH KUMMAR G R
+## Hi there 👋 I'm VIBHEESH KUMMAR G R
 
-### 💻 Software Engineer | 🚀 Full-Stack Developer | 🏆 Hackathon Finalist
+Software Engineer | Full-Stack Developer 
 
-<div align="center">
-  <img width="400" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding Animation" />
+<div>
+    <img align = "right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
+</div>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+    <div style="flex: 1;">
+        <ul style="list-style: none; padding: 0; margin: 0;">
+            <li><strong>🎓 Education:</strong></li>
+            <ul style="list-style: none; padding-left: 30px; margin: 5px 0;">
+                <li>📌 R.M.D Engineering College</li>
+            </ul>
+            <li><strong>🏆 Achievements:</strong></li>
+            <ul style="list-style: none; padding-left: 30px; margin: 5px 0;">
+                <li>🏅 Hackathon finalist at Hack4TKM and Hacktivate</li>
+            </ul>
+            <li><strong>💡 Developed:</strong></li>
+            <ul style="list-style: none; padding-left: 30px; margin: 5px 0;">
+                <li>🚀 <a href="https://github.com/VibheeshKumar2424/Animal-Intrusion-Detection-and-Alert-System">Animal Intrusion Detection System</a></li>
+            </ul>
+        </ul>
+    </div>
 </div>
 
-## 🔥 About Me
-const vibheesh = {
-  education: "R.M.D Engineering College",
-  achievements: [
-    "Hackathon finalist at Hack4TKM",
-    "Hackathon finalist at Hacktivate"
-  ],
-  projects: {
-    featured: "Animal Intrusion Detection System",
-    link: "https://github.com/VibheeshKumar2424/Animal-Intrusion-Detection-and-Alert-System"
-  },
-  passions: ["Problem Solving", "Full-Stack Development", "Building AI Solutions"],
-  funFact: "I turn coffee ☕ into code 💻"
-};
-🛠️ Tech Stack
-💡 Programming Languages
-<div align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> </div>
-🌐 Web Technologies
-<div align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> </div>
-🗃️ Databases
-<div align="center"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" /> </div>
-🔧 Tools
-<div align="center"> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> </div>
-📊 LeetCode Stats
-https://leetcard.jacoblin.cool/VibheeshKumar2424?theme=dark&font=Sulphur%2520Point&ext=activity
 
-🤝 Connect With Me
-<div align="center"> <a href="https://in.linkedin.com/in/vibheesh-kumar-g-r-1a0b2b267"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/VibheeshKumar2424"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </div><!-- LinkedIn Badge --><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="vibheesh-kumar-g-r-1a0b2b267" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vibheesh-kumar-g-r-1a0b2b267?trk=profile-badge">VIBHEESH KUMAR G R</a></div> <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-🎯 Featured Project
-https://github-readme-stats.vercel.app/api/pin/?username=VibheeshKumar2424&repo=Animal-Intrusion-Detection-and-Alert-System&theme=radical
+
+### 📱 Connect with Me
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="vibheesh-kumar-g-r-1a0b2b267" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vibheesh-kumar-g-r-1a0b2b267?trk=profile-badge">VIBHEESH KUMAR G R</a></div>
+
+### 🛠️ I Code In
+
+<div style="display: flex; gap: 5px; align-items: center; flex-wrap: wrap;">
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+    <img height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ogzjtbw9BR2kvN88btLRfK3Ffc9p3dVcNQ&s" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
+</div>
+
+
+### 🔧 Tools & Technologies
+
+<div style="display: flex; gap: 5px; align-items: center;">
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/firebase.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
+</div>
+
+### 🚀 Competitive Programming
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/VibheeshKumar2424?theme=dark&font=Sulphur%20Point&ext=activity)](https://leetcode.com/u/VibheeshKumar2424/)
