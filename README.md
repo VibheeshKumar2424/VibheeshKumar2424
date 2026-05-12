@@ -3,9 +3,6 @@ I'm VIBHEESH KUMMAR G R
 
 Software Engineer | Full-Stack Developer 
 
-<div>
-    <img align = "right" width="370" height="290" src="https://media.licdn.com/dms/image/v2/D4D12AQH2zQ0dNvmntQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1715952999841?e=1757548800&v=beta&t=ALQiTdBuJocS_RVkmRD6mOKiKhm8odM81whAKernaH0" />
-</div>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
     <div style="flex: 1;">
         <ul style="list-style: none; padding: 0; margin: 0;">
@@ -65,4 +62,4 @@ Software Engineer | Full-Stack Developer
 
 ### 🚀 Competitive Programming
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/VibheeshKumar2424?theme=dark&font=Sulphur%20Point&ext=activity)](https://leetcode.com/u/VibheeshKumar2424/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/VibheeshKumar2424?theme=dark&font=Sulphur%20Point&ext=activity)](https://leetcode.com/u/vibheesh_4212/)
